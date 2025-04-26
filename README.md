@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spandanaGera
-- 🌱 I’m currently learning web technologies
+- 🌱 I’m currently learning web technologies(MERN Stack)
 - 💞️ I’m looking to collaborate on  real-world projects
 - 📫 Reach me @spandanasampath07@gmail.com
 
